@@ -6,9 +6,9 @@ Project done for the course of Advanced Topics in Databases, of the Master's in 
 Lecturer: Prof. Michel Ferreira
 
 Students:
-** Ana Catarina Monteiro - up201402752@fc.up.pt **
-** Fábio Freitas - up201505331@fe.up.pt **
-** Nuno Lopes - up201505531@fc.up.pt **
+Ana Catarina Monteiro - up201402752@fc.up.pt
+Fábio Freitas - up201505331@fe.up.pt
+Nuno Lopes - up201505531@fc.up.pt
 
 Department of Computer Science
 
@@ -17,8 +17,8 @@ Faculty of Sciences, University of Porto
 # Usage
 
 * Import the datasets to your postgresql database (PostGis Extension)
-    [taxi_stands](https://web.fe.up.pt/~up201505331/files/taxi_stands.sql)
-    [taxi_services](https://web.fe.up.pt/~up201505331/files/taxi_services.sql)
+    [taxi_stands](https://web.fe.up.pt/~up201505331/files/taxi_stands.sql) ;
+    [taxi_services](https://web.fe.up.pt/~up201505331/files/taxi_services.sql) ;
     [freguesias](https://web.fe.up.pt/~up201505331/files/Cont_AAD.sql)
 * Adjust the code's connection parameters to the ones matching your postgres service
 * Run the script
