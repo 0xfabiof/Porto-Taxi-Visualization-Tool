@@ -7,7 +7,9 @@ Lecturer: Prof. Michel Ferreira
 
 Students:
 Ana Catarina Monteiro - up201402752@fc.up.pt
+
 Fábio Freitas - up201505331@fe.up.pt
+
 Nuno Lopes - up201505531@fc.up.pt
 
 Department of Computer Science
@@ -25,7 +27,7 @@ Faculty of Sciences, University of Porto
 
 ...
 python2.7 TP_TABD_CatarinaMonteiroFabioFreitasNunoLopes.py
-..
+...
 
 # Results
 
