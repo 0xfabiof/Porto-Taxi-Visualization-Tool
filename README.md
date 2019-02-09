@@ -6,11 +6,12 @@ Project done for the course of Advanced Topics in Databases, of the Master's in 
 Lecturer: Prof. Michel Ferreira
 
 Students:
-Ana Catarina Monteiro - up201402752@fc.up.pt
 
-Fábio Freitas - up201505331@fe.up.pt
+***Ana Catarina Monteiro - up201402752@fc.up.pt***
 
-Nuno Lopes - up201505531@fc.up.pt
+***Fábio Freitas - up201505331@fe.up.pt***
+
+***Nuno Lopes - up201505531@fc.up.pt***
 
 Department of Computer Science
 
@@ -25,9 +26,9 @@ Faculty of Sciences, University of Porto
 * Adjust the code's connection parameters to the ones matching your postgres service
 * Run the script
 
-...
+```
 python2.7 TP_TABD_CatarinaMonteiroFabioFreitasNunoLopes.py
-...
+```
 
 # Results
 
